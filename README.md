@@ -20,19 +20,6 @@ recomandation desussed include:
 2-  foucs on minimizing thr number of the illegal immigrants, espicially in makkah.
 3- emphisis on more restrections regarding the above mentioned 3 types of Traffic Violation.
 
-Data dictionary
-|Feature|Type|Dataset|Description|
-|---|---|---|---|
-|year|int|Driving_Licenses & Traffic_Accidents|the year in which the data is refrencing | 
-|region|object|Driving_Licenses & Traffic_Accidents|the region in which the either the driver licesnse & the accedents happend respectivley |  
-|indicator|object|Traffic_Accidents|the accidents catagoreis | 
-|licenses|int|Driving_Licenses |will show the number of the issued licenses in that region in that year |
-|value|int|Traffic_Accidents|the value of the issued driver licenses and the number of the accedents | 
-|geopoint|object|Driving_Licenses & Traffic_Accidents|shows the longitude and latitude of each region| 
-|x|int|Driving_Licenses & Traffic_Accidents|shows tonly the longitude the region region|
-|y|int|Driving_Licenses & Traffic_Accidents|shows tonly the latitude the region region|
-
-
 
 
 ## blog 
